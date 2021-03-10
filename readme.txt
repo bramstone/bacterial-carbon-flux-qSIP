@@ -1,6 +1,4 @@
-Note to reviewers:
-
-This directory contains all the necessary code to reproduce the main figures and central data/statistics
+This repository contains all the necessary code to reproduce the main figures and central data/statistics
 
 Everything necessary to generate table and figures should already by found in the "data" folder upon download
 
